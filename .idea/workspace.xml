@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cb8a7b53-ba08-4b76-9394-a2dc4308eab5" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1g7dnPjItmo2sFMiBzREsqjEJp8" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img/icon" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\WINDOWS\Desktop\simple_project\cc\img\icon" />
+      <recent name="C:\Users\WINDOWS\Desktop\simple_project\cc\img" />
+      <recent name="C:\Users\WINDOWS\Desktop\simple_project\cc\fonts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\WINDOWS\Desktop\simple_project\cc\fonts" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb8a7b53-ba08-4b76-9394-a2dc4308eab5" name="Default Changelist" comment="" />
+      <created>1597469731008</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597469731008</updated>
+      <workItem from="1597469732351" duration="15720000" />
+      <workItem from="1597497760383" duration="5272000" />
+      <workItem from="1597550990848" duration="6641000" />
+      <workItem from="1597578171024" duration="1242000" />
+      <workItem from="1597584574089" duration="6848000" />
+      <workItem from="1597636691991" duration="8491000" />
+      <workItem from="1597656977604" duration="10236000" />
+      <workItem from="1597671513780" duration="2279000" />
+      <workItem from="1597716546961" duration="7027000" />
+      <workItem from="1597731116727" duration="1162000" />
+      <workItem from="1597732423920" duration="12306000" />
+      <workItem from="1597757806106" duration="1834000" />
+      <workItem from="1597802243564" duration="1201000" />
+      <workItem from="1597806737781" duration="13070000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
